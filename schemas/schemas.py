@@ -1,5 +1,4 @@
 from datetime import datetime
-from tkinter.tix import Tree
 from typing import Optional
 from pydantic import BaseModel, EmailStr
 
